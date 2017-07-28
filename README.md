@@ -1,10 +1,8 @@
-To Install:
+# To Install:
 
 npm install dsto
 
-..............................................................
-
-Usage:
+# Usage:
 
 var dsto = require('dsto');
 
@@ -28,9 +26,7 @@ console.log(obj3);
 
 //output: { data: [ 11.811, 15.748, 19.685 ], format: 'in' }
 
-..............................................................
-
-Currently supported units:
+# Currently supported units:
 
 cm - centimeter
 
