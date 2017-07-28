@@ -1,6 +1,6 @@
 {
   "name": "dsto",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Dimension String To Object",
   "main": "index.js",
   "scripts": {
