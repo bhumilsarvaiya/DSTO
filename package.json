@@ -1,0 +1,19 @@
+{
+  "name": "dsto",
+  "version": "1.0.0",
+  "description": "Dimension String To Object",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhumilsarvaiya/DSTO.git"
+  },
+  "author": "bhumilsarvaiya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhumilsarvaiya/DSTO/issues"
+  },
+  "homepage": "https://github.com/bhumilsarvaiya/DSTO#readme"
+}
