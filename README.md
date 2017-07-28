@@ -1,6 +1,6 @@
-# Usage:
+# Usage
 
-## Installation:
+## Installation
 
 ```bash
 npm install dsto
@@ -23,6 +23,6 @@ var obj3 = dsto.convert('30\'x40\'x50\' in');
 console.log(obj3);
 //output: { data: [ 11.811, 15.748, 19.685 ], format: 'in' }
 ```
-# Currently supported units:
+# Currently supported units
 
 **cm:** centimeter, **m:** meter, **km:** kilometer, **ft:** feet, **in:** inch, **':** centimeter, **":** inch
