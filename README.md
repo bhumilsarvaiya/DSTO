@@ -25,4 +25,4 @@ console.log(obj3);
 ```
 # Currently supported units:
 
-**cm:** centimeter, **m:** meter, **km:** kilometer, **ft:** feet, **in:** inch, **\':** centimeter, **\":** inch
+**cm:** centimeter, **m:** meter, **km:** kilometer, **ft:** feet, **in:** inch, **':** centimeter, **":** inch
